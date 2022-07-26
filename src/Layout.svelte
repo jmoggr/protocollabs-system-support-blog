@@ -19,7 +19,7 @@
 
 <div class='wrapper'>
     <div class='content'>
-        <a href="/">Home</a>
+        <a href="..">Home</a>
         <h1>{ title }</h1>
         <hr />
 
